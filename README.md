@@ -6,5 +6,8 @@ npm i
 ```
 Создаете файл wallets.txt вставляете все приватники в столбик
 ```
+```
+node ./check.js
+```
 Ждете и радуетесь.
 https://t.me/retrodropTools
