@@ -1,0 +1,19 @@
+{
+  "name": "zksyncchecker",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cryptosoft.tools",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "ethers": "^6.6.2",
+    "exceljs": "^4.3.0",
+    "fs": "^0.0.1-security"
+  }
+}
